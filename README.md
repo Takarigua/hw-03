@@ -3,15 +3,15 @@
 ### Задание 1
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
 
-###Items
+### Items
 
 ![Items](https://github.com/Takarigua/hw-03/blob/f5b17bcdf5d411eb8b61275dfa3a669696fff0a1/screen/Items.png)
 
-###CPULoad
+### CPULoad
 
 ![CPULoad](https://github.com/Takarigua/hw-03/blob/f5b17bcdf5d411eb8b61275dfa3a669696fff0a1/screen/CPULoad.png)
 
-###RAMLoad
+### RAMLoad
 
 ![RAMLoad](https://github.com/Takarigua/hw-03/blob/f5b17bcdf5d411eb8b61275dfa3a669696fff0a1/screen/RAMLoad.png)
 ---
